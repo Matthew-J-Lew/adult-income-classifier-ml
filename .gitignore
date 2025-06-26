@@ -1,0 +1,12 @@
+# Ignore PyCharm/IDEA settings
+.idea/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# ignoring local dataset
+adult/

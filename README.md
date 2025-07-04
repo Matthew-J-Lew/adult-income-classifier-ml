@@ -21,12 +21,6 @@ The goal of this project is to preprocess and analyze census data, handle class 
 - **requirements.txt**  
   Lists Python dependencies needed to run the project.
 
-- **.gitignore**  
-  Specifies files and folders to be ignored by Git.
-
-- **README.md**  
-  📘 You're reading it! project overview, setup, and usage instructions.
-
 ---
 
 ## ⚙️ Setup & Installation
@@ -49,9 +43,9 @@ The goal of this project is to preprocess and analyze census data, handle class 
 ---
 ## 🚀 Usage
 Run the preprocessing and exploratory data analysis:
-    ```bash 
-    python main.py
-    ```
+  ```bash
+  python main.py
+  ```
 Run the model training, evaluation, and feature selection:
   ```bash
   python project.py
